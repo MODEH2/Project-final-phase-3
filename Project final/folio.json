@@ -1,0 +1,13 @@
+{
+    "liquidites": 124153.15000000005,
+    "actions": {
+        "AAPL": 45
+    },
+    "transactions": [
+        {
+            "type": "acheter",
+            "montant": "AAPL",
+            "date": 5
+        }
+    ]
+}
